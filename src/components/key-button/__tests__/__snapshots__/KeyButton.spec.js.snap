@@ -1,0 +1,47 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`KeyButton component should match the snapshot 1`] = `
+<button
+  className="class KeyButton extends
+/* istanbul ignore next */
+(
+/* istanbul ignore next */
+_react.
+/* istanbul ignore next */
+default.Component) {
+  render() {
+    /* istanbul ignore next */
+    cov_175xnr8u4p.f[0]++;
+
+    const _ref = (cov_175xnr8u4p.s[0]++, this.props),
+          value = _ref.value,
+          colour = _ref.colour,
+          onClick = _ref.onClick;
+
+    const className =
+    /* istanbul ignore next */
+    (cov_175xnr8u4p.s[1]++, \`\${KeyButton} \${colour}\`);
+
+    /* istanbul ignore next */
+    cov_175xnr8u4p.s[2]++;
+    return (
+      /* istanbul ignore next */
+      _react.default.createElement(
+      /* istanbul ignore next */
+      \\"button\\",
+      /* istanbul ignore next */
+      {
+        className: className,
+        onClick: onClick,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 9
+        },
+        __self: this
+      }, value)
+    );
+  }
+
+} undefined"
+/>
+`;

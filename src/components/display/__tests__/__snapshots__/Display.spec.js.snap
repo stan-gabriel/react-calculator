@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Display component should match the snapshot 1`] = `
+<div
+  className="Display"
+  style={
+    Object {
+      "fontSize": "2.4rem",
+    }
+  }
+/>
+`;

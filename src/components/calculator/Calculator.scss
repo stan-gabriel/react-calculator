@@ -1,0 +1,14 @@
+@import '../../scss/variables';
+
+.Calculator {
+  display: flex;
+  flex-direction: column;
+  //height: 20rem;
+  //width: 17rem;
+  text-align: center;
+  margin: 5rem;
+}
+
+.buttons-wrapper {
+  display: flex;
+}

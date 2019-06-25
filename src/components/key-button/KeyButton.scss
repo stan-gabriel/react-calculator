@@ -1,0 +1,29 @@
+@import '../../scss/variables';
+
+.KeyButton {
+  height: 3rem;
+  width: 3.8rem;
+  text-align: center;
+  font-size: 1.3rem;
+  border-color: $base-color;
+  outline: none;
+  color: $white;
+}
+
+.dark-btn {
+  background: $base-color-lighter;
+}
+
+.light-btn {
+  background: $grey;
+}
+
+.orange-btn {
+  background: $orange;
+  font-size: 1.7rem;
+}
+
+.special-btn {
+  background: $grey;
+  width: 7.6rem;
+}

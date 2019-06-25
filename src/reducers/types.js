@@ -1,0 +1,8 @@
+export const ADD_FIRST_VALUE = 'ADD_FIRST_VALUE';
+export const ADD_SECOND_VALUE = 'ADD_SECOND_VALUE';
+export const OPERATION = 'OPERATION';
+export const CALCULATE_RESULT = 'CALCULATE_RESULT';
+export const CALCULATE_PERCENTAGE = 'CALCULATE_PERCENTAGE';
+export const CLEAR_ALL = 'CLEAR_ALL';
+export const CHANGE_SIGN = 'CHANGE_SIGN';
+export const VALUE = 'VALUE';
